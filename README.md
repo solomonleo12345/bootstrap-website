@@ -1,3 +1,3 @@
 # bootstrap-website
 
-Website created using simple boostrap 5 classes.
+Website created using boostrap-5.
